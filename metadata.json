@@ -1,0 +1,6 @@
+{
+  "name": "VaxFacts & Science Reference",
+  "description": "Comprehensive scientific and medical reference app detailing COVID-19 vaccine chemical ingredients, mRNA biology, adverse event surveillance, electromagnetic wave physics (5G/6G), religious exemption ethics, and live NIH/PubMed research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
